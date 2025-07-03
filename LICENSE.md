@@ -1,11 +1,11 @@
 #  Software License — LiteAC
-**© 2025 [_MegArthur]. Tous droits réservés / All rights reserved.**
+**© 2025 _MegArthur. Tous droits réservés / All rights reserved.**
 
 ---
 
 ## 🇫🇷 LICENCE D'UTILISATION (FRANÇAIS)
 
-Ce logiciel est un produit **propriétaire**, développé par **[_MegArthur]**.
+Ce logiciel est un produit **propriétaire**, développé par **_MegArthur**.
 
 ### Il est strictement interdit de :
 - Copier, modifier, distribuer ou redistribuer ce logiciel, en tout ou en partie ;
@@ -24,7 +24,7 @@ Ce logiciel est un produit **propriétaire**, développé par **[_MegArthur]**.
 
 ## 🇬🇧 USAGE LICENSE (ENGLISH)
 
-This software is a **proprietary** product developed by **[_MegArthur]**.
+This software is a **proprietary** product developed by **_MegArthur**.
 
 ### You are strictly prohibited from:
 - Copying, modifying, distributing, or redistributing this software (in part or in full);
