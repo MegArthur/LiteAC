@@ -43,7 +43,7 @@ A AI-based client-side Minecraft Anticheat
 
 > This mod is designed to detect and block cheaters.  
 > Attempts to modify, fake, or tamper with the mod or packets may result in bans or legal action.
-> see ['license.md'](./LICENSE.MD) for more.
+> see ['license.md'](./LICENSE.md) for more.
 
 
 
